@@ -1,4 +1,4 @@
-import Collection from "../../components/Collection";
+import Collection from "../../components/collection";
 import GridView from "../../components/GridView";
 import Projects from "../../components/Projects";
 import Frameworkgradient from "../../components/Frameworkgradient";
