@@ -33,6 +33,12 @@ const Projects = () => {
       cardGradientAfter:
         "after:content-[''] after:bg-grad-theme-135 after:absolute after:w-[270px] after:h-[270px] after:-bottom-[15%] after:-right-[5%] after:blur-[30px] after:rounded-full",
     },
+    {
+      cardGradientBefore:
+        "before:content-[''] before:bg-grad-theme-135 before:absolute before:w-[300px] before:h-[300px] before:-top-[5%] before:right-[20%] before:blur-[30px] before:rounded-full",
+      cardGradientAfter:
+        "after:content-[''] after:bg-grad-theme-135 after:absolute after:w-[270px] after:h-[270px] after:-bottom-[15%] after:-right-[5%] after:blur-[30px] after:rounded-full",
+    },
   ];
 
   return (

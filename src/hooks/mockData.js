@@ -129,6 +129,21 @@ export const FRAMEWORK_DATA = [
     link: "https://card-generator-chi.vercel.app/#",
   },
   {
+    id: "framework_5",
+    image: Images.framework5,
+    title: "AllMyTab - your Smart Browser HomePage",
+    description:
+      "Powerful Widget Experience. Fully customizable widgets that adapt to your needs. Drag and drop interface for easy customization. Create your perfect browsing companion Sync across all your devices Quick access to essential tools - Optimized for productivity",
+    make: "React ",
+    make1: "FireBase ",
+    make2: "Node ",
+    make3: "Api ",
+    make4: "JavaScript ",
+    make5: "Jwt ",
+    make6: "Tailwind ",
+    link: "https://www.allmytab.com/",
+  },
+  {
     id: "framework_4",
     image: Images.framework4,
     title: "Integrate into your existing ecosystem",

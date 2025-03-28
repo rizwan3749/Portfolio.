@@ -6,6 +6,7 @@ import framework1 from "./images/framework1.png";
 import framework2 from "./images/framework2.png";
 import framework3 from "./images/framework3.png";
 import framework4 from "./images/framework4.png";
+import framework5 from "./images/framework5.png"
 import import_design from "./images/import_design.png";
 import process_map from "./images/process_map.png";
 import scope from "./images/scope.png";
@@ -21,6 +22,7 @@ export const Images = {
   framework2,
   framework3,
   framework4,
+  framework5,
   import_design,
   process_map,
   scope,
