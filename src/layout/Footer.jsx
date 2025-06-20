@@ -49,7 +49,7 @@ const Footer = () => {
               <span className="text-sm text-white ">GitHub</span>
             </a>
             <a
-              href="https://linkedin.com/in/"
+              href="https://www.linkedin.com/in/mr-rizwan1/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-col items-center md:mr-1 text-gray-800 hover:text-risd-blue hover:scale-105 transition-all duration-300 ease-in-out"
